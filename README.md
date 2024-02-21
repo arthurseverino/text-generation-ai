@@ -27,3 +27,28 @@ Through this project, I have learned about various concepts in deep learning and
 - Activation functions: Learned how they introduce non-linearity into the model and help it learn complex patterns.
 - Tokenization: Learned how to convert text into a format that can be fed into a model.
 - Word embeddings: Learned how they represent words in a way that captures their meanings.
+
+
+## Example Usage
+
+This section demonstrates how to use the next-word prediction model. The model takes the last three words of the input and predicts the next word.
+
+Here's how it works:
+
+1. **Input**: The user enters a line of text. For example: "however, it may all come to".
+
+2. **Processing**: The model takes the last three words of the input, in this case, "all", "come", "to".
+
+3. **Output**: The model predicts the next word and returns it. In this example, it returns "nothing".
+
+Here are more examples:
+
+- **Input**: "He could not help seeing that you were about five times as"
+  - **Processing**: The model takes "five", "times", "as".
+  - **Output**: The model predicts "pretty".
+
+- **Input**: "He was quite"
+  - **Processing**: The model takes "He", "was", "quite".
+  - **Output**: The model predicts "young".
+
+Remember, the model's predictions depend on the text it was trained on. If it was trained on different text, it might make different predictions.
