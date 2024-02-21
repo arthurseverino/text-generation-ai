@@ -51,4 +51,4 @@ Here are more examples:
   - **Processing**: The model takes "He", "was", "quite".
   - **Output**: The model predicts "young".
 
-Remember, the model's predictions depend on the text it was trained on. If it was trained on different text, it might make different predictions.
+Remember, the model's predictions depend on the text it was trained on.
