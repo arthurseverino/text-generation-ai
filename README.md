@@ -1,6 +1,6 @@
 # Next Word Predictor using LSTM
 
-This project is about creating a next-word prediction model using Natural Language Processing (NLP), Python, TensorFlow, Numpy and Matplotlib. The model is a Recurrent Neural Network (RNN) with Long-Short-Term Memory (LSTM) units.
+This project is about creating a next-word prediction model using Natural Language Processing (NLP) with Python, TensorFlow, Numpy and Matplotlib. The model is a Recurrent Neural Network (RNN) with Long-Short-Term Memory (LSTM) units.
 
 ## Project Description
 
